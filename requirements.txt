@@ -1,0 +1,11 @@
+streamlit
+sqlalchemy
+pandas
+numpy
+ortools
+bcrypt
+plotly
+openpyxl
+python-dotenv
+pytest
+boto3

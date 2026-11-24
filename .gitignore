@@ -1,0 +1,53 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Database files
+*.db
+*.sqlite3
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# AWS credentials and secrets
+.aws/
+credentials
+config
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs and temporary files
+*.log
+*.tmp# Local backups and development files
+RosterIQ_Phase16_Backup_*/
+app_backup_phase15.py
+apply_phase17_integration.py
+next_modules_source.txt
+phase16_inspection.txt
+phase17_source_review.txt
+roster_calendar.py
+test_employee_database.py
+test_employee_database_backup.py
+test_employee_validation.py
+src/services/employee_service_backup_before_security.py
+src/services/employee_service_backup_phase15.py
+src/views/dashboard_backup_phase14.py
+src/views/employees_backup_before_restore.py
+src/views/employees_backup_before_security.py
+src/views/layout_backup_phase15.py
